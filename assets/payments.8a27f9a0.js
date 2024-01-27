@@ -1,0 +1,1 @@
+import{_ as t,c as s,o,a as e}from"./entry.19f8da95.js";const c={},a={class:"p-10"},n=e("h1",{class:"text-center text-xl"},"We have lots of money💵💴💶💷",-1),_=e("h3",{class:"text-center text-lg"},"Give us some more, please🙏👉👈🥺",-1),r=[n,_];function l(d,i){return o(),s("div",a,r)}const m=t(c,[["render",l]]);export{m as default};

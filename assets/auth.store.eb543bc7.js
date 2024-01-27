@@ -1,0 +1,1 @@
+import{N as a}from"./entry.19f8da95.js";const s={user:{email:"",name:"",status:!1}},i=a("auth",{state:()=>s,getters:{isAuth:t=>t.user.status},actions:{clear(){this.$patch(s)},set(t){this.$patch({user:t})}}}),o=a("isLoading",{state:()=>({isLoading:!0}),actions:{set(t){this.$patch({isLoading:t})}}});export{o as a,i as u};
