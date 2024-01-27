@@ -1,0 +1,1 @@
+import{_ as e,c as t,o,a as s}from"./entry.4f10bab2.js";const c={},a={class:"p-10"},r=s("h1",{class:"text-center text-xl"}," I do not understand of this page if all orders are on the home page LOL 😅) ",-1),n=[r];function _(d,i){return o(),t("div",a,n)}const f=e(c,[["render",_]]);export{f as default};
